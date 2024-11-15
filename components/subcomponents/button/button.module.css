@@ -1,0 +1,12 @@
+.icon {
+  background: var(--primary-300);
+  height: 24px;
+  width: 24px;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.icon:hover {
+  background: var(--primary-400);
+}

@@ -68,24 +68,3 @@ a {
     transform: translate(0, 20%);
   }
 }
-/* @keyframes bounce {
-  0% {
-    transform: translate(0, 0);
-  }
-  12% {
-    transform: translate(0, 20%);
-  }
-
-  25% {
-    transform: translate(0, 0);
-  }
-  36% {
-    transform: translate(0, 20%);
-  }
-  50% {
-    transform: translate(0, 0);
-  }
-  100% {
-    transform: translate(0, 0);
-  }
-} */

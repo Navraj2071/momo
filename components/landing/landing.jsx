@@ -1,6 +1,7 @@
 import Landscape from "./subcomponents/landscape";
 import Foreground from "./subcomponents/foreground";
 import Texts from "./subcomponents/texts/texts";
+import Music from "./subcomponents/music/music";
 
 const Landing = () => {
   return (
@@ -8,6 +9,7 @@ const Landing = () => {
       <Texts />
       <Landscape />
       <Foreground />
+      <Music />
     </div>
   );
 };
